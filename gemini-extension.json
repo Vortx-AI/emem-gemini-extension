@@ -1,0 +1,12 @@
+{
+  "name": "emem-gemini-extension",
+  "version": "2.2.0",
+  "description": "Shared, signed and content-addressed memory of the physical world that AI agents can read, cite, transfer and independently verify.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "emem": {
+      "httpUrl": "https://emem.dev/mcp",
+      "timeout": 600000
+    }
+  }
+}
