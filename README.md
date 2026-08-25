@@ -24,7 +24,7 @@ The extension connects Gemini CLI to the public Streamable HTTP endpoint at `htt
 ## Details
 
 - Name: emem
-- Version: 2.2.0
+- Version: 2.3.0
 - Website: https://emem.dev
 - Documentation: https://emem.dev/agents.md
 - Tags: a2a-protocol, earth-observation, long-running-agents, long-term-memory, mcp, multi-agent, shared-memory, substrate, world-models
